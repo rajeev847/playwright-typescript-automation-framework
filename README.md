@@ -54,6 +54,13 @@ The framework is designed to automate end-to-end business workflows, validate ap
 * Regression Testing
 * End-to-End Testing
 
+## Project Structure
+/pages - Page Object classes
+/tests - Test scripts
+/utils - Test data and helper utilities
+/fixtures - Custom Playwright fixtures
+/test-data - Test datasets
+
 ## Author
 
 Rajeev Kumar
